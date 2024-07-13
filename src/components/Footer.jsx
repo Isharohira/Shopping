@@ -41,7 +41,7 @@ function Footer() {
           </ul>
         </div>
         <div>
-          <h5 className="font-bold mb-2 text-orange-500 text-2xl">Resources</h5>
+          <h5 className="font-bold mb-2 text-orange-500 text-2xl">Support</h5>
           <ul>
             <li><a href="#" className="hover:text-gray-400">Blog</a></li>
             <li><a href="#" className="hover:text-gray-400">FAQs</a></li>
