@@ -8,13 +8,13 @@ import Features from '../components/Features'
 import FitGuide from '../components/FitGuide'
 import EmailSubscription from '../components/EmailSubscription'
 import Footer from '../components/Footer'
-
+import ProductList from '../components/ProductList'
 function Home() {
   return (
     <div>
       <div className='sticky top-0 z-10'>
-      <TopStrip/>
-      <Navbar/>
+     
+     
       </div>
 
 <Hero/>
@@ -23,8 +23,8 @@ function Home() {
 <FitGuide/>
 
 <Features/>
-<EmailSubscription/>
-<Footer/>
+<ProductList/>
+
 
 
     </div>

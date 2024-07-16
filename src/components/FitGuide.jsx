@@ -19,7 +19,7 @@ function FitGuide() {
   }
 
   return (
-    <div className="mx-auto mt-14 px-8 py-12 ">
+    <div className="container mx-auto mt-14 px-8 py-12 ">
       <h1 className="text-center leading-wide text-3xl mb-12 font-medium text-violet-900 ">
         FIT GUIDE
       </h1>
